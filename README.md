@@ -1,6 +1,8 @@
 # Picture-in-picture Project
 
-*This was a quick project from a Javascript Web Project course on Udemy. Fundamentals covered:*
+*Udemy Javascript Web Project #3*  
+
+*Fundamentals covered:*
 
 -  Work with Try/Catch Blocks
 -  Tips for styling buttons and their actions
